@@ -9,4 +9,3 @@ Clone these python modules anywhere in your machine.
 Install Selenium, BeautifulSoup, Requests, Pickle libraries.
 Make a folder on your Desktop named 'Codeforces', and copy the C++ template file into that folder.
 
-# Changes to make in the modules
